@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HK21-Reactjs-Beginner/static/css/main.a0029ee6.css",
+    "main.js": "/HK21-Reactjs-Beginner/static/js/main.a1a3c28f.js",
+    "static/js/787.c224be9c.chunk.js": "/HK21-Reactjs-Beginner/static/js/787.c224be9c.chunk.js",
+    "static/media/scifi.jpg": "/HK21-Reactjs-Beginner/static/media/scifi.77c66fdc21671754428d.jpg",
+    "static/media/marvel.jpg": "/HK21-Reactjs-Beginner/static/media/marvel.ff6f4c1d93a89d16ca74.jpg",
+    "static/media/endgame.jpg": "/HK21-Reactjs-Beginner/static/media/endgame.502a6c670d991d28ae7c.jpg",
+    "static/media/main.jpg": "/HK21-Reactjs-Beginner/static/media/main.f23164ce3aa78c2ab281.jpg",
+    "static/media/spiderman.jpg": "/HK21-Reactjs-Beginner/static/media/spiderman.1113b87ff762398841e2.jpg",
+    "static/media/1917.jpg": "/HK21-Reactjs-Beginner/static/media/1917.958a4a3db64eb9e432b0.jpg",
+    "static/media/captain.jpg": "/HK21-Reactjs-Beginner/static/media/captain.d41b95a5ee9d14238911.jpg",
+    "static/media/RPO.jpg": "/HK21-Reactjs-Beginner/static/media/RPO.baafee3a65c2ebf38a40.jpg",
+    "static/media/joker.jpg": "/HK21-Reactjs-Beginner/static/media/joker.e4fa24b4833bd8e74e1f.jpg",
+    "static/media/infiniti.jpg": "/HK21-Reactjs-Beginner/static/media/infiniti.81eb6b7b0ac76d5430ca.jpg",
+    "static/media/doctor.jpg": "/HK21-Reactjs-Beginner/static/media/doctor.7f97ee704e9ef4a32729.jpg",
+    "static/media/parasite.jpg": "/HK21-Reactjs-Beginner/static/media/parasite.3b09dd9212f796737184.jpg",
+    "static/media/ironman.jpg": "/HK21-Reactjs-Beginner/static/media/ironman.e7b1a9b42be76a8f2513.jpg",
+    "static/media/who.jpg": "/HK21-Reactjs-Beginner/static/media/who.c0aab8b5b500efc14a36.jpg",
+    "static/media/searching.jpg": "/HK21-Reactjs-Beginner/static/media/searching.4ff24ae41f9ce5d4afdb.jpg",
+    "index.html": "/HK21-Reactjs-Beginner/index.html",
+    "main.a0029ee6.css.map": "/HK21-Reactjs-Beginner/static/css/main.a0029ee6.css.map",
+    "main.a1a3c28f.js.map": "/HK21-Reactjs-Beginner/static/js/main.a1a3c28f.js.map",
+    "787.c224be9c.chunk.js.map": "/HK21-Reactjs-Beginner/static/js/787.c224be9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0029ee6.css",
+    "static/js/main.a1a3c28f.js"
+  ]
+}
